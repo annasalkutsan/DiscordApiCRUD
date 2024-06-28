@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj": {}
+    "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj": {
+    "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj",
+        "projectPath": "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\obj\\",
+        "outputPath": "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anna\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6153,11 +6153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
       "projectName": "Infrastucture",
-      "projectPath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
+      "projectPath": "D:\\Рабочий стол\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
       "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Infrastucture\\obj\\",
+      "outputPath": "D:\\Рабочий стол\\DiscordApiCRUD\\Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6174,8 +6174,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj": {
-              "projectPath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj"
+            "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj": {
+              "projectPath": "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj"
             }
           }
         }

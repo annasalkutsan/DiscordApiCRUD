@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hKDpruzKndlzyXSXvyECiT34HAj1yKtVo788z8ukODjUHdF7TLWYryr4ZcmygTwhsiFf5YJpSBt3tFnK8ZBJXA==",
+  "dgSpecHash": "44Uokre7XwbDCRSbkoZN4zwibC0Wr9479DgqHE2RfHj95SVm+J8ngYIKDQyfeJryQio2ZM/7SEtin3zys8wuLA==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Рабочий стол\\DiscordApiCRUD\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anna\\.nuget\\packages\\dotnetenv\\3.0.0\\dotnetenv.3.0.0.nupkg.sha512",
     "C:\\Users\\Anna\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

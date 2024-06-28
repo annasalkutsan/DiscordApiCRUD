@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dSIVZrnldBFTX/PaCJsdl0GAp22E61oPn2Mnhsnf5Ur3Veme5srT2gR+Q0wT1ZXd3+UrQHHNk+flEFJCJAewpQ==",
+  "dgSpecHash": "US1Syi3rkJlrikS9eJKBmfFiUL1mzYQB1vy7Vst3vnQcWpCbWZVO9v5nBSzlDc3Km88ktoFa4S28qR/SlyJ5Lw==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий стол\\учебная практика\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
+  "projectFilePath": "D:\\Рабочий стол\\DiscordApiCRUD\\Infrastucture\\Infrastucture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anna\\.nuget\\packages\\dotnetenv\\3.0.0\\dotnetenv.3.0.0.nupkg.sha512",
     "C:\\Users\\Anna\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
