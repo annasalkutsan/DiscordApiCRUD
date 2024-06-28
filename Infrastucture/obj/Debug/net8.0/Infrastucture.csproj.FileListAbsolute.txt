@@ -1,0 +1,82 @@
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\appsettings.Development.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\appsettings.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.exe
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.deps.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.runtimeconfig.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.pdb
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Refit.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Refit.HttpClientFactory.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Application.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Application.pdb
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.AssemblyReference.cache
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfoInputs.cache
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfo.cs
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.MvcApplicationPartsAssemblyInfo.cs
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.MvcApplicationPartsAssemblyInfo.cache
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.build.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.development.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.Infrastucture.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.build.Infrastucture.props
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Infrastucture.props
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Infrastucture.props
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\scopedcss\bundle\Infrastucture.styles.css
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastu.D9A2AE6E.Up2Date
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\refint\Infrastucture.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.pdb
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.genruntimeconfig.cache
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\ref\Infrastucture.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.sourcelink.json
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\DotNetEnv.dll
+D:\Рабочий стол\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Sprache.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\appsettings.Development.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\appsettings.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.exe
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.deps.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.runtimeconfig.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Infrastucture.pdb
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\DotNetEnv.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Refit.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Refit.HttpClientFactory.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Sprache.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Application.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\bin\Debug\net8.0\Application.pdb
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.AssemblyReference.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfoInputs.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfo.cs
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.MvcApplicationPartsAssemblyInfo.cs
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.MvcApplicationPartsAssemblyInfo.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.sourcelink.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.build.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.development.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.Infrastucture.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.build.Infrastucture.props
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Infrastucture.props
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Infrastucture.props
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\scopedcss\bundle\Infrastucture.styles.css
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastu.D9A2AE6E.Up2Date
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\refint\Infrastucture.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.pdb
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\Infrastucture.genruntimeconfig.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Infrastucture\obj\Debug\net8.0\ref\Infrastucture.dll

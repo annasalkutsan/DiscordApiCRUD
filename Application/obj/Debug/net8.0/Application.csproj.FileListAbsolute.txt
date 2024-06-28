@@ -1,0 +1,82 @@
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.deps.json
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.pdb
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.pdb
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Рабочий стол\DiscordApiCRUD\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.deps.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Application.pdb
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\Application.pdb
+D:\Рабочий стол\учебная практика\DiscordApiCRUD\Application\obj\Debug\net8.0\ref\Application.dll
