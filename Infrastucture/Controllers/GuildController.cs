@@ -38,19 +38,4 @@ public class GuildController : ControllerBase
         var result = await guildService.GetUsersGuilds();
         return Ok(result);
     }
-    
-    /*
-    [HttpGet("GuildsChannels")]
-    public async Task<IActionResult> GetGuildChannels(string guildId, [FromServices] GuildService guildService)
-    {
-        var result = await guildService.GetGuildChannels(guildId);
-        return Ok(result);
-    }*/
-    
-    [HttpGet("GuildsMembers")]
-    public async Task<IActionResult> GetGuildMembers (string guildId,  int limit, ulong after, [FromServices] GuildService guildService)
-    {
-        var result = await guildService.GetGuildMembers(guildId, limit, after);
-        return Ok(result);
-    }
 }

@@ -6,11 +6,15 @@ using Refit;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// переменные из .env файла
 Env.Load();
 
-// чтение значения токена из переменных среды
 string discordAuthToken = Environment.GetEnvironmentVariable("DISCORD_AUTH_TOKEN");
+string discordAccept = Environment.GetEnvironmentVariable("ACCEPT");
+string discordAcceptLanguage = Environment.GetEnvironmentVariable("ACCEPT_LANGUAGE");
+string discordDebugOptions = Environment.GetEnvironmentVariable("DEBUG_OPTIONS");
+string discordLocale = Environment.GetEnvironmentVariable("DISCORD_LOCALE");
+string discordTimezone = Environment.GetEnvironmentVariable("DISCORD_TIMEZONE");
+string discordSuperProps = Environment.GetEnvironmentVariable("SUPER_PROPS");
 
 builder.Services.AddTransient<GuildService>();
 builder.Services.AddTransient<ChannelService>();
@@ -25,6 +29,15 @@ builder.Services.Configure<Authorization>(options =>
     options.Token = discordAuthToken;
 });
 
+builder.Services.Configure<GuildParams>(options =>
+{
+    options.Accept = discordAccept;
+    options.AcceptLanguage = discordAcceptLanguage;
+    options.DebugOptions = discordDebugOptions;
+    options.DiscordLocale = discordLocale;
+    options.DiscordTimezone = discordTimezone;
+    options.SuperProps = discordSuperProps;
+});
 
 builder.Services.AddControllers();
 builder.Services.AddHttpClient();

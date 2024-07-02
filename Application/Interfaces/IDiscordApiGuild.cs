@@ -7,7 +7,8 @@ namespace Application.Interfaces;
 public interface IDiscordApiGuild
 {
     [Post("/guilds")]
-    Task<GuildResponce> CreateGuild( GuildRequest guild, [Header("Authorization")] string authToken);
+    Task<GuildResponce> CreateGuild( GuildRequest guild, [Header("Authorization")] string authToken, [Header("accept")] string accept, [Header("accept-language")] string language, 
+        [Header("x-debug-options")] string debugOptions, [Header("x-discord-locale")] string discordLocale, [Header("x-discord-timezone")] string discordTimezone, [Header("x-super-properties")] string superProperties);
 
     [Patch("/guilds/{guildId}")]
     Task<GuildResponce> UpdateGuild(string guildId,  GuildRequest guild, [Header("Authorization")] string authToken);
@@ -17,10 +18,4 @@ public interface IDiscordApiGuild
 
     [Get("/users/@me/guilds")]
     Task<List<GuildResponce>> GetUsersGuilds([Header("Authorization")] string authToken);
-
-    /*[Get("/guilds/{guild.id}/channels")]
-    Task<List<ChannelResponse>> GetGuildChannels(string guildId, [Header("Authorization")] string authToken);*/
-    
-    [Get("/guilds/{guildId}/members")]
-    Task<List<GuildMember>> GetGuildMembers(string guildId, [Query] int limit, [Query] ulong after, [Header("Authorization")] string authToken);
 }
